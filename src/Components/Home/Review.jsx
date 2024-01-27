@@ -1,8 +1,7 @@
 import { useKeenSlider } from "keen-slider/react"
 import "keen-slider/keen-slider.min.css"
 import { Reviews } from "../../assets/Data/Reviews";
-import Rating from "react-rating";
-//  
+
 const Review = () => {
 
     const [sliderRef] = useKeenSlider({

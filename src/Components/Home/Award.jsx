@@ -2,7 +2,7 @@
 
 const Award = () => {
     return (
-        <div>
+        <div className="bg-[#F7F8FC] pt-10">
             <div className="bg-[#0F172A] text-white">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                     <div className="text-center">
